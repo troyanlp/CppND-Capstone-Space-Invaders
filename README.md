@@ -4,7 +4,7 @@ This project is done as the final project of the Udacity C++ Nanodegree utilizin
 
 The game consists on a number of aliens coming down to earth and shooting and only the player can defeat them by avoiding their bullets and shooting to kill. What will be your score? ;)
 
-<img src="SpaceInvaders.jpeg"/>
+<img src="SpaceInvaders.jpg"/>
 
 Instructions 
 - Moving --> Left and right arrow
